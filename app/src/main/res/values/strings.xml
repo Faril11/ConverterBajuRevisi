@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Converter Baju</string>
+    <string name="cb_intro">Converter Baju merupakan aplikasi yang dapat menentukan size baju yg tepat berdasarkan berat dan tinggi badan</string>
+    <string name="berat_badan">Berat badan</string>
+    <string name="tinggi_badan">Tinggi badan</string>
+    <string name="pria">Pria</string>
+    <string name="wanita">Wanita</string>
+    <string name="hitung">Hitung Ukuran Baju</string>
+    <string name="hitung_hasil" translatable="false">Hitung Hasil:%s</string>
+    <string name="tentang_aplikasi">Tentang Aplikasi</string>
+    <string name="kembali">Kembali</string>
+    <string name="copyright">"Converter Baju merupakan aplikasi yang dapat menentukan size baju yg tepat berdasarkan berat dan tinggi badan.  \\Copyright 2021 - 2024 Fazrul Ridha Alliandre.  All rights reversed. "</string>
+    <string name="bagikan_template" translatable="false">Berat badan: %1$s kg\nTinggi badan: %2$s cm</string>
+    <string name="bagikan" translatable="false">Bagikan</string>
+    <string name="size_xs" translatable="false">XS</string>
+    <string name="size_s" translatable="false">S</string>
+    <string name="size_m" translatable="false">M</string>
+    <string name="size_l" translatable="false">L</string>
+    <string name="size_xl" translatable="false">XL</string>
+    <string name="size_xxl" translatable="false">XXL</string>
+    <string name="size_xxxl" translatable="false">XXXL</string>
+    <string name="recommended_size_message">Ukuran baju yang direkomendasikan: %1$s</string>
+    <string name="input_invalid">Tidak Boleh Kosong</string>
+    <string name="gambar" translatable="false">Gambar %1$s</string>
+</resources>
